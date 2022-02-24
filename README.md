@@ -10,7 +10,7 @@ pkg install ruby
 gem install lolcat 
 pkg install bash
 pkg install git
-git clone https://gitHub.com/penghancur/tampilan
+git clone https://gitHub.com/MrVirusSpm-07/tampilan
 cd tampilan
 nano .bashrc
 sh tampilan.sh
